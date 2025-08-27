@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kermisto.amethyst",
+      "sha256_cert_fingerprints": [
+        "C8:2D:64:46:EC:2A:F9:06:E3:5B:EA:23:71:C8:5E:5A:5B:3F:EE:49:14:54:B8:AF:99:CA:1E:5C:23:4F:EF:F7" 
+      ]
+    }
+  }
+]
